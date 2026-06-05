@@ -31,5 +31,3 @@ Always interested in collaborating on research, educational initiatives, AI proj
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 
 </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divya09072023&theme=default&hide_border=true)](https://git.io/streak-stats)
