@@ -32,4 +32,4 @@ Always interested in collaborating on research, educational initiatives, AI proj
 
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=default)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Divya09072023&theme=default&hide_border=true)](https://git.io/streak-stats)
